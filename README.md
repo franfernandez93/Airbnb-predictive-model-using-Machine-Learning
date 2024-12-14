@@ -1,6 +1,5 @@
 # Airbnb-predictive-model-using-Machine-Learning
 
-# Proyecto de Predicción de Precios de Alojamientos en Airbnb
 
 Este proyecto tiene como objetivo desarrollar un modelo predictivo para estimar el precio de los alojamientos en Airbnb a partir de un conjunto de datos proporcionado. A lo largo del proceso, utilicé diversas técnicas de análisis y preprocesamiento de datos, así como modelos de Machine Learning para entrenar y validar el modelo predictivo.
 
