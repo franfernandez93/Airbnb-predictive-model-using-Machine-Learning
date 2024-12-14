@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo desarrollar un modelo predictivo para estimar el precio de los alojamientos en Airbnb a partir de un conjunto de datos proporcionado. Utilicé diversas técnicas de análisis y preprocesamiento de datos, así como modelos de Machine Learning para entrenar y validar el modelo predictivo.
 
-Objetivo
+Objetivo:
 El objetivo principal de este proyecto es predecir el precio de los alojamientos en Airbnb, basándonos en una serie de características como el número de habitaciones, el número de camas, los servicios ofrecidos, entre otros. Para ello, el flujo de trabajo sigue los siguientes pasos:
 
 División de los datos: Primero, divido los datos en conjuntos de entrenamiento y prueba para evitar el uso de datos de prueba en el entrenamiento del modelo.
